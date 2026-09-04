@@ -1,11 +1,13 @@
 about:
-  description: asciinema gif generator
+  description:
+  |
+    asciinema gif generator
   license: GPL-3.0
   homepage: https://docs.asciinema.org/manual/agg/
   head: aae34b0
   archived: false
   latestVersion: v1.9.0
-  collectedAt: 2026-09-04T02:32:04Z
+  collectedAt: 2026-09-04T19:18:32Z
 timeline:
   created: 2022-07-29
   lastCommit: 2026-08-14
@@ -16,13 +18,13 @@ popularity:
   fork: 69
   release: 14
   contributor: 14
-  pullRequest: 15
+  pullRequest: 42
   issue: 72
 language:
   Rust: 222820
   Nix: 1554
   Dockerfile: 1121
-totalLine: 225495
+totalBytes: 225495
 recent:
   last30d:
     since: 2026-08-05
@@ -32,6 +34,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 4
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 11
   last90d:
     since: 2026-06-06
     release: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 7
     openIssue: 2
     commit: 107
+  last720d:
+    since: 2024-09-14
+    release: 6
+    mergedPR: 5
+    openPR: 3
+    closedIssue: 22
+    openIssue: 2
+    commit: 129
+total:
+  release: 14
+  mergedPR: 27
+  openPR: 3
+  closedIssue: 70
+  openIssue: 2
+  commit: 326
+---
+---
+
