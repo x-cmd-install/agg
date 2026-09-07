@@ -5,13 +5,13 @@ about:
   head: aae34b0
   archived: false
   latestVersion: "v1.9.0"
-  collectedAt: 2026-09-07T05:48:54Z
+  collectedAt: 2026-09-07T18:42:42Z
 timeline:
   created: 2022-07-29
   lastCommit: 2026-08-14
   lastRelease: 2026-05-29
 popularity:
-  star: 1718
+  star: 1720
   watcher: 8
   fork: 69
   release: 14
@@ -81,7 +81,7 @@ total:
   commit: 326
 ---
 path: /home/runner/.x-repo/github.com/asciinema/agg
-collectedAt: 2026-09-07T05:48:58Z
+collectedAt: 2026-09-07T18:42:45Z
 loc:
   Rust:
     code: 5800
@@ -122,7 +122,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:48:59+00:00
+  collectedAt: 2026-09-07T18:42:46+00:00
   platform:
     darwin/arm64:
       name:  agg-aarch64-apple-darwin
