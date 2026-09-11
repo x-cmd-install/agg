@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.9.0"
   latestRelease: "v1.9.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:49:47Z
+  collectedAt: 2026-09-11T19:10:12Z
 timeline:
   created: 2022-07-29
   lastCommit: 2026-08-14
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-29
   lastPrerelease: 
 popularity:
-  star: 1720
+  star: 1722
   watcher: 8
   fork: 69
   release: 14
@@ -85,7 +85,7 @@ total:
   commit: 326
 ---
 path: /home/runner/.x-repo/github.com/asciinema/agg
-collectedAt: 2026-09-11T05:49:49Z
+collectedAt: 2026-09-11T19:10:17Z
 loc:
   Rust:
     code: 5800
