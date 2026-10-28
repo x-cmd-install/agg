@@ -14,11 +14,11 @@ x install agg
 
 ## Code insight
 
-Total: **5,930** lines of code across **23** files in the top 5 languages.
+Total: **5,997** lines of code across **23** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 5,800 | 187 | 1,090 | 18 |
+| Rust | 5,867 | 192 | 1,106 | 18 |
 | Nix | 58 | 0 | 2 | 1 |
 | Toml | 45 | 1 | 5 | 1 |
 | Dockerfile | 27 | 3 | 10 | 1 |
@@ -33,7 +33,7 @@ Total: **5,930** lines of code across **23** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.9.0` (2026-05-29)
-- **Last commit**: 2026-08-14
+- **Last commit**: 2026-10-27
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **5,930** lines of code across **23** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 14 · **Merged PRs**: 27 · **Open PRs**: 3 · **Closed issues**: 70 · **Open issues**: 2 · **Commits**: 326
+- **Releases**: 14 · **Merged PRs**: 27 · **Open PRs**: 3 · **Closed issues**: 70 · **Open issues**: 2 · **Commits**: 328
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-30 | 3 | 1 | 0 | 4 | 1 | 48 |
-| 360d | 2025-11-01 | 3 | 1 | 3 | 6 | 2 | 84 |
-| last720d | 2024-11-06 | 5 | 4 | 3 | 19 | 2 | 111 |
+| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last60d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 2 |
+| 90d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-01 | 3 | 1 | 0 | 4 | 1 | 50 |
+| 360d | 2025-11-02 | 3 | 1 | 3 | 6 | 2 | 86 |
+| last720d | 2024-11-07 | 5 | 4 | 3 | 19 | 2 | 113 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for agg lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:04:19Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:42:30Z._
